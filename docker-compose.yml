@@ -4,7 +4,7 @@ services:
     build: .
     image: go-intern-diary
     volumes:
-      - .:/go/src/github.com/hatena/go-Intern-Diary
+      - .:/go/src/github.com/noissefnoc/go-Intern-Diary
     links:
       - db
     ports:

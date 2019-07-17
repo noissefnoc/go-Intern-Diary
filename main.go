@@ -10,10 +10,10 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/hatena/go-Intern-Diary/config"
-	"github.com/hatena/go-Intern-Diary/repository"
-	"github.com/hatena/go-Intern-Diary/service"
-	"github.com/hatena/go-Intern-Diary/web"
+	"github.com/noissefnoc/go-Intern-Diary/config"
+	"github.com/noissefnoc/go-Intern-Diary/repository"
+	"github.com/noissefnoc/go-Intern-Diary/service"
+	"github.com/noissefnoc/go-Intern-Diary/web"
 )
 
 func main() {

@@ -8,7 +8,7 @@ import (
 	"github.com/dimfeld/httptreemux"
 	"github.com/justinas/nosurf"
 
-	"github.com/hatena/go-Intern-Diary/service"
+	"github.com/noissefnoc/go-Intern-Diary/service"
 )
 
 type Server interface {

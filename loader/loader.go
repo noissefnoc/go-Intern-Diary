@@ -6,7 +6,7 @@ import (
 
 	"github.com/graph-gophers/dataloader"
 
-	"github.com/hatena/go-Intern-Diary/service"
+	"github.com/noissefnoc/go-Intern-Diary/service"
 )
 
 type Loaders interface {

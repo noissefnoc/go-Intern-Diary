@@ -7,7 +7,7 @@ import (
 	"github.com/graph-gophers/graphql-go"
 	"github.com/graph-gophers/graphql-go/relay"
 
-	"github.com/hatena/go-Intern-Diary/service"
+	"github.com/noissefnoc/go-Intern-Diary/service"
 )
 
 //go:generate go-assets-builder --package=resolver --output=./schema-gen.go --strip-prefix="/" --variable=Schema schema.graphql

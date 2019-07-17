@@ -3,8 +3,8 @@ package resolver
 import (
 	"context"
 
-	"github.com/hatena/go-Intern-Diary/model"
-	"github.com/hatena/go-Intern-Diary/service"
+	"github.com/noissefnoc/go-Intern-Diary/model"
+	"github.com/noissefnoc/go-Intern-Diary/service"
 )
 
 type Resolver interface {

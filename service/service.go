@@ -4,7 +4,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/hatena/go-Intern-Diary/repository"
+	"github.com/noissefnoc/go-Intern-Diary/repository"
 )
 
 func init() {
